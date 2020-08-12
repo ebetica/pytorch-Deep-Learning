@@ -2,17 +2,17 @@ permalink:           pretty
 
 # Setup
 title:               'Deep Learning'
-url:                 https://atcold.github.io/pytorch-Deep-Learning/
+url:                 https://ebetica.github.io/pytorch-Deep-Learning/
 baseurl:             '/pytorch-Deep-Learning'
 homepage_title:      Home
 default_lang:        'en'
 
 # About/contact
 author:
-name:                atcold
+name:                ebetica
 url:                 https://twitter.com/alfcnz
 github:
-  repo:              https://github.com/atcold/pytorch-Deep-Learning/
+  repo:              https://github.com/ebetica/pytorch-Deep-Learning/
 
 # Custom vars
 version:             dlsp20
